@@ -1,0 +1,6 @@
+@FireAlertBackend_HostAddress = http://localhost:5286
+
+GET {{FireAlertBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
